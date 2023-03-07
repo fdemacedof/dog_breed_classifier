@@ -33,9 +33,9 @@ cd dog-project
 You can find the final algorith, as a Class, in the DogBreedClassifier.py file. Use the _classify(image_path)_ method to use it:
 ### Using DogBreedClassifier
 
----
+```	
 from DogBreedClassifier import DogBreedClassifier
 
 classifier = DogBreedClassifier()
 classifier.classify("path/to/image")
----
+```	
