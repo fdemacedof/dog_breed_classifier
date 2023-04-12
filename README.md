@@ -12,7 +12,7 @@ I have followed the steps bellow:
 - Build a CNN with transfer learning, using ResNet50 to classify dog breeds;
 - Implement an algorithm that classifies dogs breeds from images.
 
-I have written an [article on medium](https://medium.com/@fdemacedof/identifying-dog-breeds-with-convolutional-neural-networks-cnn-67363018957a) explaining the whole process step by step. And [another article](https://medium.com/@fdemacedof/udacity-nanodegree-capstone-project-dog-breed-classifier-bfe24f582c80) on the technicle aspects of the project.
+I have written an [article on medium](https://medium.com/@fdemacedof/identifying-dog-breeds-with-convolutional-neural-networks-cnn-67363018957a) explaining the whole process step by step. And [another article](https://medium.com/@fdemacedof/udacity-nanodegree-capstone-project-dog-breed-classifier-bfe24f582c80) on the technical aspects of the project.
 
 ### Instructions
 
